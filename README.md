@@ -20,3 +20,4 @@ This Excel dashboard project analyzes shipment performance, carrier efficiency, 
 - Some destinations had higher logistics costs
 - Carrier delivery times were relatively similar
 - Delayed shipments highlight process improvement opportunities
+![Logistics Dashboard](image.png)
